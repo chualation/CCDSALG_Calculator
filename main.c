@@ -5,7 +5,6 @@
 #include "infix-to-postfix.c"   //infix-to-postfix source file
 #include "evaluation.c"         //evaluation source file
 
-
 /*
 Purpose: This is the main function of the program
 
